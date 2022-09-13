@@ -1,8 +1,8 @@
 Hi there, i'm Washington Ferreira
 
 - 🔭 i'm currently working as a **digital marketer**, **front-end developer** and a **designer** at "Trilha Tecnologia"
-- 🌱 I’m currently learning: How to code using **typescript**, **React** and **React native**. How to speak in **italian and German**
-- 👯 I’m looking to collaborate on a nice open source project but i'm still looking for something
+- 🌱 I’m currently learning: How to improve my js code with **typescript** using node, also using **React** and **React native**. How to speak **italian and German**
+- 👯 I’m looking to collaborate on a nice open source project.
 - 📫 You can reach me on my email address: **thewazig.wf@gmail.com**. Feel free to say hi
 - 😄 Pronouns: he/him
 
