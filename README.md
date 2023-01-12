@@ -1,17 +1,44 @@
-Hi there, i'm Washington Ferreira
 
-- 🔭 i'm currently working as a **digital marketer**, **front-end developer** and a **designer** at "Trilha Tecnologia"
-- 🌱 I’m currently learning: How to improve my js code with **typescript** using node, also using **React** and **React native**. How to speak **italian and German**
-- 👯 I’m looking to collaborate on a nice open source project.
+<h2> Hi there, i'm Washington Ferreira </h2>
+<h4> The best Digital Marketer, Full Stack Developer, and Ui / Ux / Graphic Designer u'll ever meet</h4>
+
+<h4>Summary:</h4>
+
+- Proficient in digital marketing strategies, web development, and design
+- Experienced in creating and managing successful digital campaigns
+- Strong <b><i> skills in HTML, CSS, JavaScript, and web development frameworks like React, 
+nextJS, a lill bit of Angular on front and Express / nestJs on back</b></i>
+- Skilled in graphic design and branding
+- Proven ability to work collaboratively and effectively in a team environment
+
+<span>I'm currently working as a <b><i>Digital Marketer, Full Stack Developer, and Designer</i></b> at Trilha Tecnologia </span>
+
+- Developing and implementing digital marketing campaigns to drive website traffic and generate leads
+- Designing and developing responsive websites and web applications using HTML, CSS, JavaScript, and stuff
+- Collaborating with the team i manage to achieve common goals and deliver high-quality work
+
+Education:
+ Bachelor's degree in Computer Science or related field
+
+
+<h4>Skills</h4>
+
+- Digital Marketing: SEO, SEM, PPC, Email Marketing, Social Media Marketing
+- Web Development: HTML, CSS, JavaScript, React, (basic)Angular, (basic)Vue.js
+- Graphic Design: Adobe Creative Suite, Sketch, Figma
+- Branding: Branding Guidelines, Identity Design
+- Strong problem-solving and analytical skills
+- Strong communication skills
+- Strong team player
+
 - 📫 You can reach me on my email address: **thewazig.wf@gmail.com**. Feel free to say hi
-- 😄 Pronouns: he/him
 
  ##
 
 <div>
   <a href="https://github.com/batcleta" > 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batcleta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=batcleta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </div>
 
   
