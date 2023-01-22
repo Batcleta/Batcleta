@@ -4,9 +4,9 @@
 
 <h4>About Me</h4>
 
-<p>I am a versatile professional with experience in web development, marketing and design. I hold a Bachelor's degree in Computer Science, which provided me with a solid foundation in computer systems and programming, including languages such as C and C#, and software development methodologies.</p>
+<p>I am a versatile professional with experience in web development, marketing and design. I hold a Bachelor's degree in Information Technology Management, which provided me with a solid foundation in computer systems and programming, including languages such as C, Python, and web development methodologies.</p>
 
-<p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from <b><i> Ada Coders/Santander </b></i> to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
+<p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from <b> Ada Coders/Santander </b> to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
 
 <p>In addition to improving my programming skills, I also worked on my English language skills, which are essential in the tech industry. I read books, watched videos, and talked with native speakers to improve my understanding and fluency in the language.</p>
 
@@ -14,22 +14,20 @@
 
 - Proficient in digital marketing strategies, web development, and design
 - Experienced in creating and managing successful digital campaigns
-- Skills in<b><i>  HTML, CSS, JavaScript, and frameworks like React, 
-nextJS, a lill bit of Angular</b></i>
-- Skills in Node Js developing Apis in Express using typescript. 
+- Skills in<b> HTML, CSS, JavaScript, and frameworks like React, nextJS, a lill bit of Angular</b>
+- Skills in <b>Node Js</b> developing Apis in Express using <b>Typescript</b>. 
 - Actually Improving my Java skills in a learning program from Ada/Santander
 - Skilled in graphic design and branding
 - Proven ability to work collaboratively and effectively in a team environment
 
-<span>I'm currently working as a <b><i>Digital Marketer, Full Stack Developer, and Designer</i></b> at Trilha Tecnologia </span>
+<span>I'm currently working as a <b>Digital Marketer, Full Stack Developer, and Designer</b> at Trilha Tecnologia </span>
 
 - Developing and implementing digital marketing campaigns to drive website traffic and generate leads
 - Designing and developing responsive websites and web applications using HTML, CSS, JavaScript, and stuff
 - Collaborating with the team i manage to achieve common goals and deliver high-quality work
 
 Education:
- Bachelor's degree in Computer Science or related field
-
+ Bachelor's degree in Information Technology Management
 
 <h4>Skills</h4>
 
