@@ -4,7 +4,7 @@
 
 <h4>About Me</h4>
 
-<p>I am a versatile professional with experience in web development and design. I hold a Bachelor's degree in Computer Science, which provided me with a solid foundation in computer systems and programming, including languages such as C and C#, and software development methodologies.</p>
+<p>I am a versatile professional with experience in web development, marketing and design. I hold a Bachelor's degree in Computer Science, which provided me with a solid foundation in computer systems and programming, including languages such as C and C#, and software development methodologies.</p>
 
 <p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from <b><i> Ada Coders/Santander </b></i> to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
 
@@ -12,12 +12,11 @@
 
 <p>This self-taught approach allowed me to expand my skills and knowledge beyond what I learned in school, making me a more versatile and valuable professional in the tech industry.</p>
 
-<h4>Summary:</h4>
-
 - Proficient in digital marketing strategies, web development, and design
 - Experienced in creating and managing successful digital campaigns
-- Strong <b><i> skills in HTML, CSS, JavaScript, and web development frameworks like React, 
-nextJS, a lill bit of Angular on front and Express / nestJs on back</b></i>
+- Skills in<b><i>  HTML, CSS, JavaScript, and frameworks like React, 
+nextJS, a lill bit of Angular</b></i>
+- Skills in Node Js developing Apis in Express using typescript. 
 - Actually Improving my Java skills in a learning program from Ada/Santander
 - Skilled in graphic design and branding
 - Proven ability to work collaboratively and effectively in a team environment
