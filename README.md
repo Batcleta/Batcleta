@@ -6,7 +6,7 @@
 
 <p>I am a versatile professional with experience in web development and design. I hold a Bachelor's degree in Computer Science, which provided me with a solid foundation in computer systems and programming, including languages such as C and C#, and software development methodologies.</p>
 
-<p>However, I wanted to improve my skills even further and became an autodidact. I taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
+<p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from <b><i> Ada Coders/Santander </b></i> to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
 
 <p>In addition to improving my programming skills, I also worked on my English language skills, which are essential in the tech industry. I read books, watched videos, and talked with native speakers to improve my understanding and fluency in the language.</p>
 
@@ -18,6 +18,7 @@
 - Experienced in creating and managing successful digital campaigns
 - Strong <b><i> skills in HTML, CSS, JavaScript, and web development frameworks like React, 
 nextJS, a lill bit of Angular on front and Express / nestJs on back</b></i>
+- Actually Improving my Java skills in a learning program from Ada/Santander
 - Skilled in graphic design and branding
 - Proven ability to work collaboratively and effectively in a team environment
 
@@ -34,7 +35,7 @@ Education:
 <h4>Skills</h4>
 
 - Digital Marketing: SEO, SEM, PPC, Email Marketing, Social Media Marketing
-- Web Development: HTML, CSS, JavaScript, React, (basic)Angular, (basic)Vue.js
+- Web Development: HTML, CSS, JavaScript, React, (basic)Angular, (basic)Vue.js and a little bit of Java
 - Graphic Design: Adobe Creative Suite, Sketch, Figma
 - Branding: Branding Guidelines, Identity Design
 - Strong problem-solving and analytical skills
