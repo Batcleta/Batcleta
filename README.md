@@ -4,42 +4,33 @@
 
 <h4>About Me</h4>
 
-<p>I am a versatile professional with experience in web development, marketing and design. I hold a Bachelor's degree in Information Technology Management, which provided me with a solid foundation in computer systems and programming, including languages such as C, Python, and web development methodologies.</p>
+<p>I am a versatile professional with experience in fullstack web development, marketing and design. I hold a Bachelor's degree in Information Technology Management, which provided me with a solid foundation in computer systems and programming, including languages such as C, Python, and web development methodologies.</p>
 
-<p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from <b> Ada Coders/Santander </b> to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
+<p>However, I am always looking to improve my skills and currently, I am enrolled in a learning program from Ada Coders/Santander to enhance my Java skills. I am also an autodidact, who taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
 
-<p>In addition to improving my programming skills, I also worked on my English language skills, which are essential in the tech industry. I read books, watched videos, and talked with native speakers to improve my understanding and fluency in the language.</p>
+<p>
+In addition to improving my programming skills, I also worked on my English language skills, which are essential in the tech industry. I read books, watched videos, and talked with native speakers to improve my understanding and fluency in the language.</p>
 
-<p>This self-taught approach allowed me to expand my skills and knowledge beyond what I learned in school, making me a more versatile and valuable professional in the tech industry.</p>
+<h3>My Skills</h3>
 
-- Proficient in digital marketing strategies, web development, and design
+- Skills in HTML, CSS, Javascript and Typescript, also using front-end frameworks like React, (basic)Angular, (basic)Vue.js
+- Backend Api development using node Js, express, javascript and typescript
+- Actually Improving my Java skills in a learning program from Ada Coders / Santander
+- Proficient in Digital Marketing, SEO, Email Marketing, Social Media Marketing
 - Experienced in creating and managing successful digital campaigns
-- Skills in<b> HTML, CSS, JavaScript, and frameworks like React, nextJS, a lill bit of Angular</b>
-- Skills in <b>Node Js</b> developing Apis in Express using <b>Typescript</b>. 
-- Actually Improving my Java skills in a learning program from Ada/Santander
-- Skilled in graphic design and branding
-- Proven ability to work collaboratively and effectively in a team environment
+- Skilled in graphic design and branding using Adobe suite, and Figma
+- Ability to work collaboratively and effectively in a team environment
+- Strong problem-solving and analytical skills
+- Strong communication skills
 
-<span>I'm currently working as a <b>Digital Marketer, Full Stack Developer, and Designer</b> at Trilha Tecnologia </span>
+I'm currently working as a Digital Marketer, Full Stack Developer, and Designer at Trilha Tecnologia:
 
 - Developing and implementing digital marketing campaigns to drive website traffic and generate leads
 - Designing and developing responsive websites and web applications using HTML, CSS, JavaScript, and stuff
 - Collaborating with the team i manage to achieve common goals and deliver high-quality work
+- Education: Bachelor's degree in Information Technology Management
 
-Education:
- Bachelor's degree in Information Technology Management
-
-<h4>Skills</h4>
-
-- Digital Marketing: SEO, SEM, PPC, Email Marketing, Social Media Marketing
-- Web Development: HTML, CSS, JavaScript, React, (basic)Angular, (basic)Vue.js and a little bit of Java
-- Graphic Design: Adobe Creative Suite, Sketch, Figma
-- Branding: Branding Guidelines, Identity Design
-- Strong problem-solving and analytical skills
-- Strong communication skills
-- Strong team player
-
-- 📫 You can reach me on my email address: **thewazig.wf@gmail.com**. Feel free to say hi
+📫 You can reach me on my email address: thewazig.wf@gmail.com. Feel free to say hi
 
  ##
 
