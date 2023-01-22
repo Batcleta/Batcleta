@@ -2,6 +2,16 @@
 <h2> Hi there, i'm Washington Ferreira </h2>
 <h4> The best Digital Marketer, Full Stack Developer, and Ui / Ux / Graphic Designer u'll ever meet</h4>
 
+<h4>About Me</h4>
+
+<p>I am a versatile professional with experience in web development and design. I hold a Bachelor's degree in Computer Science, which provided me with a solid foundation in computer systems and programming, including languages such as C and C#, and software development methodologies.</p>
+
+<p>However, I wanted to improve my skills even further and became an autodidact. I taught myself new programming languages such as JavaScript, Python, PHP, and Java, as well as front-end frameworks like React, Next.js, React Native, and a bit of Angular and Vue.js. I also learned how to create Express and Nest APIs using TypeScript on Node.js. I achieved this by utilizing online resources such as tutorials, documentation, and forums, and taking on personal projects to challenge myself and solve complex problems.</p>
+
+<p>In addition to improving my programming skills, I also worked on my English language skills, which are essential in the tech industry. I read books, watched videos, and talked with native speakers to improve my understanding and fluency in the language.</p>
+
+<p>This self-taught approach allowed me to expand my skills and knowledge beyond what I learned in school, making me a more versatile and valuable professional in the tech industry.</p>
+
 <h4>Summary:</h4>
 
 - Proficient in digital marketing strategies, web development, and design
